@@ -1,0 +1,15 @@
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\bin\Debug\net6.0\1-quarter-Final-work.exe
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\bin\Debug\net6.0\1-quarter-Final-work.deps.json
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\bin\Debug\net6.0\1-quarter-Final-work.runtimeconfig.json
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\bin\Debug\net6.0\1-quarter-Final-work.dll
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\bin\Debug\net6.0\1-quarter-Final-work.pdb
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.csproj.AssemblyReference.cache
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.GeneratedMSBuildEditorConfig.editorconfig
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.AssemblyInfoInputs.cache
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.AssemblyInfo.cs
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.csproj.CoreCompileInputs.cache
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.dll
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\refint\1-quarter-Final-work.dll
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.pdb
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\1-quarter-Final-work.genruntimeconfig.cache
+X:\IT GB\GeekBrains\FINAL\1-quarter-Final-work\obj\Debug\net6.0\ref\1-quarter-Final-work.dll
